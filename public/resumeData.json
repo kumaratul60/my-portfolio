@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Atul Kumar Awasthi",
+    "occupation": "Software Engineer",
+
+    "image": "rp.jpg",
+    "bio": "Hi there! my name is Atul! I am a full stack web developer my specialty is frontend React development, I code in JavaScript and Java...",
+    "contactmessage": "Get in touch with me!",
+    "email": "atulreso1@gmail.com",
+    "phone": "+91 9454170063",
+    "address": {
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+
+    "resumedownload": "https://drive.google.com/file/d/17IDnTgcWXm6_5i6odpQQ_PxevdMOI9UA/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/kumaratul60",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/atul-kumar-awasthi-225511143",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "https://github.com/kumaratul60",
+        "className": "fa fa-github"
+      },
+     
+
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/atulkawasthi/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Punjab Technical University - India",
+        "degree": "B.Tech, Computer Science",
+        "graduated": "July 2020",
+        "description": "Graduated with 7.82 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "CodeStore Technologies",
+        "title": "Software Engineer Intern",
+        "years": "Fab 2021 - April 2021",
+        "description": "Built the interactive Dashboard and added some high impact features that improve the efficiency of the application by more than 60%. Responsible for enhancing and maintaining the UI and applications."
+      },
+      {
+        "company": "Liberin Technologies",
+        "title": "Software Development Intern",
+        "years": "Jan 2020 - May 2020",
+        "description": "Work with the software development team and developed a Corona-Virus dashboard using Spring boot, REST-API, JSP. Designed project using Spring boot framework and deployed on Apache Tomcat."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      },
+      {
+        "name": "Database",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tinder Clone (React JS)",
+        "category": "",
+        "image": "tinder.png",
+        "url": "https://tinder-clone-50401.web.app/"
+      },
+      {
+        "title": "spotify Clone (React JS)",
+        "category": "",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-3c1bb.web.app/#"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.png",
+        "url": "https://linkedin-clone-e052021.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Winners never quit, and quitters never win.” ",
+        "user": "Vince Lombardi"
+      }
+     
+    ]
+  }
+}

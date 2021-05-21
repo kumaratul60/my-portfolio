@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\react-features"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\spotify-clone"
+		},
+		{
+			"path": "..\\..\\..\\spotify-clone-app"
+		},
+		{
+			"path": "..\\..\\..\\Resume-Portfolio-Starter-pack-main"
+		}
+	],
+	"settings": {
+		"cSpell.enabled": true
+	}
+}
