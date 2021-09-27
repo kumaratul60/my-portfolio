@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": "Hi there! my name is Atul! I am a full stack web developer my specialty is frontend React development, I code in JavaScript and Java...",
+    "bio": " I have experience and skills especially in frontend React development. Able to learn fast, adapt and get things done. Can go along with people, is creative, energetic, confident, reliable, passionate, and dedicated to work. I code in JavaScript and Java.",
     "contactmessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
@@ -13,7 +13,8 @@
       "state": "Uttar Pradesh"
     },
 
-    "resumedownload": "https://drive.google.com/file/d/17IDnTgcWXm6_5i6odpQQ_PxevdMOI9UA/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1fTNs_tAJWUwdca4ScilQ5QK_agZ4YObV/view?usp=sharing",
+
     "social": [
       {
         "name": "twitter",
@@ -22,7 +23,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/atul-kumar-awasthi-225511143",
+        "url": "https://www.linkedin.com/in/atul-kumar-awasthi",
         "className": "fa fa-linkedin"
       },
 
@@ -31,11 +32,10 @@
         "url": "https://github.com/kumaratul60",
         "className": "fa fa-github"
       },
-     
 
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/atulkawasthi/",
+        "url": "https://www.instagram.com/atulkawasthi",
         "className": "fa fa-instagram"
       }
     ]
@@ -52,10 +52,17 @@
     ],
     "work": [
       {
+        "company": "Apponward Technologies",
+        "title": "Software Engineer ",
+        "years": "June 2021 - Present",
+        "description": "Building on the live website and customized responsive UI. Handling server side rendering using express.js. Handle AWS server for deploy code on production and development server "
+      },
+
+      {
         "company": "CodeStore Technologies",
         "title": "Software Engineer Intern",
         "years": "Fab 2021 - April 2021",
-        "description": "Built the interactive Dashboard and added some high impact features that improve the efficiency of the application by more than 60%. Responsible for enhancing and maintaining the UI and applications."
+        "description": "Built the interactive Dashboard and added some high impact features that improve the efficiency of the application by more than 70%. Responsible for enhancing and maintaining the UI and applications."
       },
       {
         "company": "Liberin Technologies",
@@ -69,21 +76,22 @@
         "name": "ReactJs",
         "level": "85%"
       },
-      {
-        "name": "Java",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
+
       {
         "name": "JavaScript",
         "level": "75%"
       },
       {
         "name": "Web Development",
-        "level": "85%"
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
       },
       {
         "name": "Database",
@@ -94,22 +102,48 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Tinder Clone (React JS)",
+        "title": "Airbnb-clone (React JS, Next Js, Server Side Rendering,  Tailwind css)",
         "category": "",
-        "image": "tinder.png",
-        "url": "https://tinder-clone-50401.web.app/"
+        "image": "airbnb.png",
+        "url": "https://airbnb-v2-navy.vercel.app"
+      },
+
+      {
+        "title": "E-commerce site (React JS, Next Js, Redux, NextAuth, Tailwind css)",
+        "category": "E-commerce",
+        "image": "amzn.png",
+        "url": "https://ecommerce-webapp-483i0p9fb-kumaratul60.vercel.app"
       },
       {
-        "title": "spotify Clone (React JS)",
-        "category": "",
-        "image": "spotify.png",
-        "url": "https://spotify-clone-3c1bb.web.app/#"
+        "title": "Massenger (React JS, Next Js, SSR, Firebase)",
+        "category": "Massenger",
+        "image": "whatsapp.png",
+        "url": "https://whatsapp-2-fawn.vercel.app"
       },
+
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
+        "title": "LinkedIn Clone (React JS, Redux, Firebase-auth,db)",
+        "category": "Social-media",
         "image": "linkedin.png",
-        "url": "https://linkedin-clone-e052021.web.app/"
+        "url": "https://linkedin-clone-e052021.web.app"
+      },
+      {
+        "title": "Todo (React JS, Firebase)",
+        "category": "Productive",
+        "image": "todo.png",
+        "url": "https://to-do-app-two-dusky.vercel.app"
+      },
+      {
+        "title": " Slackon (React JS, Next Js, Styled Components, Firebase-db)",
+        "category": "Room-Chat massenger",
+        "image": "slack1.png",
+        "url": "https://slack-v2-8921.web.app"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "Live API based SPA",
+        "image": "covid-19 tracker.png",
+        "url": "https://covid-19-tracker-5ak21.web.app"
       }
     ]
   },
@@ -119,7 +153,6 @@
         "text": "“Winners never quit, and quitters never win.” ",
         "user": "Vince Lombardi"
       }
-     
     ]
   }
 }

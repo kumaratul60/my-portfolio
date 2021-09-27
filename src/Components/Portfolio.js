@@ -1,4 +1,5 @@
 import React from "react";
+import Fade from "react-reveal";
 
 const Portfolio = ({ data }) => {
   if (data) {
@@ -27,18 +28,20 @@ const Portfolio = ({ data }) => {
 
   return (
     <section id="portfolio">
-      <div className="row">
-        <div className="twelve columns collapsed">
-          <h1>Check Out Some of My Works.</h1>
+      <Fade left duration={1000} distance="40px">
+        <div className="row">
+          <div className="twelve columns collapsed">
+            <h1><b><i>Check Out Some of My Works.</i></b></h1>
 
-          <div
-            id="portfolio-wrapper"
-            className="bgrid-quarters s-bgrid-thirds cf"
-          >
-            {projects}
+            <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+            >
+              {projects}
+            </div>
           </div>
         </div>
-      </div>
+      </Fade>
     </section>
   );
 };

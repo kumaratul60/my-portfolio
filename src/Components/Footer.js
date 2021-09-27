@@ -1,4 +1,5 @@
 import React from "react";
+import Fade from "react-reveal";
 
 const Footer = ({ data }) => {
   if (data) {
@@ -16,18 +17,23 @@ const Footer = ({ data }) => {
   return (
     <footer>
       <div className="row">
-        <div className="twelve columns">
-          <ul className="social-links">{networks}</ul>
+        <Fade bottom>
+          <div className="twelve columns">
+            <ul className="social-links">{networks}</ul>
 
-          <ul className="copyright">
-            <li>
-              Made by{" "}
-              <a title="Atul" href="https://www.linkedin.com/in/atul-kumar-awasthi-225511143">
-                Atul
-              </a>
-            </li>
-          </ul>
-        </div>
+            <ul className="copyright">
+              <li>
+                Made by{" "}
+                <a
+                  title="Atul"
+                  href="https://www.linkedin.com/in/atul-kumar-awasthi-225511143"
+                >
+                  Atul
+                </a>
+              </li>
+            </ul>
+          </div>
+        </Fade>
         <div id="go-top">
           <a className="smoothscroll" title="Back to Top" href="#home">
             <i className="icon-up-open"></i>

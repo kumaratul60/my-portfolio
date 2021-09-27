@@ -1,5 +1,7 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
+import ParticlesBg from "particles-bg";
+import Fade from "react-reveal";
 
 const Header = ({ data }) => {
   if (data) {
@@ -9,8 +11,9 @@ const Header = ({ data }) => {
     var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
+        
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} target="_blank" rel="noreferrer">
             <i className={network.className}></i>
           </a>
         </li>
@@ -19,7 +22,11 @@ const Header = ({ data }) => {
   }
 
   return (
+    
     <header id="home">
+      <ParticlesBg type="circle" bg={true} />
+     
+
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
           Show navigation
@@ -49,11 +56,7 @@ const Header = ({ data }) => {
               Works
             </a>
           </li>
-          <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
-            </a>
-          </li>
+
           <li>
             <a className="smoothscroll" href="#contact">
               Contact
@@ -62,18 +65,28 @@ const Header = ({ data }) => {
         </ul>
       </nav>
 
-      <div className="row banner">
-        <div className="banner-text">
-          <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
-          </h1>
-          <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
-          </h3>
-          <hr />
-          <ul className="social">{networks}</ul>
+      <Fade clear duration={1200}>
+        <div className="row banner">
+          <div className="banner-text">
+            <Fade bottom duration={1200}>
+              <h1 className="responsive-headline">
+                <TypeWriter typing={0.5}>
+                  {name ? `I'm ${name}.` : null}
+                </TypeWriter>
+              </h1>
+            </Fade>
+            <Fade bottom duration={1200}>
+              <h3>
+                Based in {city}. <span>{occupation}</span> {description}.
+              </h3>
+            </Fade>
+            <hr />
+            <Fade bottom duration={2000}>
+              <ul className="social">{networks}</ul>
+            </Fade>
+          </div>
         </div>
-      </div>
+      </Fade>
 
       <p className="scrolldown">
         <a className="smoothscroll" href="#about">
