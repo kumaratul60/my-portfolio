@@ -7,12 +7,15 @@ Built a Single Page Application, which shows my profile, my projects, and contac
 
 ### Snapshots of project 👇 
 
-<img target="_blank" src="1">
+<img target="_blank" src="1.png">
 
-<img target="_blank" src="2">
+<img target="_blank" src="2.png">
 
-<img target="_blank" src="3">
+<img target="_blank" src="3.png">
 
-<img target="_blank" src="4">
+<img target="_blank" src="4.png">
 
 ![Alt Text](5.png?raw=true "Title")
+
+
+![Alt Text](6.png?raw=true "Title")+
