@@ -9,8 +9,6 @@ Built a Single Page Application, which shows my profile, my projects, and contac
 
 <img target="_blank" src="1.png">
 
-<img target="_blank" src="2.png">
-
 <img target="_blank" src="3.png">
 
 <img target="_blank" src="4.png">
