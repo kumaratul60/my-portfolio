@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": " I have experience and skills especially in frontend React development. Able to learn fast, adapt and get things done. Can go along with people, is creative, energetic, confident, reliable, passionate, and dedicated to work. I code in JavaScript and Java.",
+    "bio": " Hi there! I'm Atul! I have 1 yaer of software industry experience and 6 months of frontend development experience. I have made some ineteresting web apps using reactjs. My dream is to be a succesful software developer and influence people's life by making useful apps for them.",
     "contactmessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
@@ -13,8 +13,7 @@
       "state": "Uttar Pradesh"
     },
 
-    "resumedownload": "https://drive.google.com/file/d/1fTNs_tAJWUwdca4ScilQ5QK_agZ4YObV/view?usp=sharing",
-
+    "resumedownload": "https://drive.google.com/file/d/1R0j4W-88Wx82kSxav0UcUIxs4ILykrLL/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -54,8 +53,8 @@
       {
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
-        "years": "June 2021 - Present",
-        "description": "Building on the live website and customized responsive UI. Handling server side rendering using express.js. Handle AWS server for deploy code on production and development server "
+        "years": "July 2021 - Nov 2021",
+        "description": "Building on the live website, in which adding some features in the live chatbox module, customized responsive UI.Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
       {
@@ -74,27 +73,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
+        "level": "80%"
       },
 
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Web Development",
-        "level": "75%"
+        "level": "70%"
       },
       {
-        "name": "Java",
+        "name": "HTML-CSS",
         "level": "70%"
       },
       {
         "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Database",
         "level": "65%"
       }
     ]

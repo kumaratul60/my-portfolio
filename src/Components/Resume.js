@@ -1,7 +1,10 @@
 import React from "react";
 import Slide from "react-reveal";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const Resume = ({ data }) => {
+  AOS.init();
   if (data) {
     var skillmessage = data.skillmessage;
     var education = data.education.map(function (education) {
@@ -49,7 +52,12 @@ const Resume = ({ data }) => {
             </h1>
           </div>
 
-          <div className="nine columns main-col">
+          <div
+            className="nine columns main-col"
+            data-aos="fade-down-left"
+            data-aos-delay="200"
+            data-aos-duration="900"
+          >
             <div className="row item">
               <div className="twelve columns">{education}</div>
             </div>
@@ -58,7 +66,12 @@ const Resume = ({ data }) => {
       </Slide>
 
       <Slide left duration={1300}>
-        <div className="row work">
+        <div
+          className="row work"
+          data-aos="fade-down-right"
+          data-aos-delay="200"
+          data-aos-duration="900"
+        >
           <div className="three columns header-col">
             <h1>
               <span>Work</span>

@@ -7,8 +7,13 @@ const Portfolio = ({ data }) => {
       var projectImage = "images/portfolio/" + projects.image;
       return (
         <div key={projects.title} className="columns portfolio-item">
-          <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+          <div
+            className="item-wrap"
+            data-aos="zoom-in"
+            data-aos-delay="200"
+            data-aos-duration="900"
+          >
+            <a href={projects.url} target="_blank" rel = "noreferrer"  title={projects.title}>
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
@@ -31,7 +36,7 @@ const Portfolio = ({ data }) => {
       <Fade left duration={1000} distance="40px">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1><b><i>Check Out Some of My Works.</i></b></h1>
+            <h1>Check Out Some of My Works.</h1>
 
             <div
               id="portfolio-wrapper"
