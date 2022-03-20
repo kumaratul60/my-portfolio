@@ -6,7 +6,7 @@ const About = ({ data }) => {
   AOS.init();
   if (data) {
     var name = data.name;
-    var profilepic = "images/" + data.image;
+    var profilePic = "images/" + data.image;
     var bio = data.bio;
     var street = data.address.street;
     var city = data.address.city;
@@ -14,7 +14,7 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+    var resumeDownload = data.resumeDownload;
   }
 
   return (
@@ -26,7 +26,7 @@ const About = ({ data }) => {
             data-aos-delay="200"
             data-aos-duration="900"
             className="profile-pic"
-            src={profilepic}
+            src={profilePic}
             alt="Atul's Profile Pic"
           />
         </div>

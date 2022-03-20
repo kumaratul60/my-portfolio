@@ -6,7 +6,7 @@ import "aos/dist/aos.css";
 const Resume = ({ data }) => {
   AOS.init();
   if (data) {
-    var skillmessage = data.skillmessage;
+    var skillMessage = data.skillMessage;
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -91,7 +91,7 @@ const Resume = ({ data }) => {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
+            <p>{skillMessage}</p>
 
             <div className="bars">
               <ul className="skills">{skills}</ul>

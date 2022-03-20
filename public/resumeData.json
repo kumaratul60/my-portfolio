@@ -4,16 +4,17 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": " Hi there! I'm Atul! I have 1 yaer of software industry experience and 6 months of frontend development experience. I have made some ineteresting web apps using reactjs. My dream is to be a succesful software developer and influence people's life by making useful apps for them.",
-    "contactmessage": "Get in touch with me!",
+    "bio": " Hi there! I'm Atul. I have1 year of experience as a Front-end developer. I have made some interesting projects using ReactJs & NextJs. My dream is to build software that influences people's life.",
+    "contactMessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
+ 
     "address": {
       "city": "Noida",
       "state": "Uttar Pradesh"
     },
 
-    "resumedownload": "https://drive.google.com/file/d/1R0j4W-88Wx82kSxav0UcUIxs4ILykrLL/view?usp=sharing",
+    "resumeDownload": "https://drive.google.com/file/d/1R0j4W-88Wx82kSxav0UcUIxs4ILykrLL/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -40,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillMessage": "My Programming Language Proficiency",
     "education": [
       {
         "school": "Punjab Technical University - India",
@@ -54,7 +55,7 @@
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
         "years": "July 2021 - Nov 2021",
-        "description": "Building on the live website, in which adding some features in the live chatbox module, customized responsive UI.Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
+        "description": "Building on the live website, in which adding some features in the live chatBox module, customized responsive UI.Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
       {
@@ -110,8 +111,8 @@
         "url": "https://ecommerce-webapp-483i0p9fb-kumaratul60.vercel.app"
       },
       {
-        "title": "Massenger (React JS, Next Js, SSR, Firebase)",
-        "category": "Massenger",
+        "title": "Messenger (React JS, Next Js, SSR, Firebase)",
+        "category": "Messenger",
         "image": "whatsapp.png",
         "url": "https://whatsapp-2-fawn.vercel.app"
       },
@@ -130,7 +131,7 @@
       },
       {
         "title": " Slackon (React JS, Next Js, Styled Components, Firebase-db)",
-        "category": "Room-Chat massenger",
+        "category": "Room-Chat messenger",
         "image": "slack1.png",
         "url": "https://slack-v2-8921.web.app"
       },

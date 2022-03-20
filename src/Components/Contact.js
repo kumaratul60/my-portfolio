@@ -15,7 +15,7 @@ const Contact = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var contactEmail = data.email;
-    var contactMessage = data.contactmessage;
+    var contactMessage = data.contactMessage;
   }
 
   const submitForm = () => {
