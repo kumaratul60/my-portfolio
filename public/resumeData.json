@@ -4,21 +4,21 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": " Hi there! I'm Atul. I have1 year of experience as a Front-end developer. I have made some interesting projects using ReactJs & NextJs. My dream is to build software that influences people's life.",
+    "bio": " Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore web and work on as Full-stack dev. I have made some interesting projects using ReactJs & NextJs. My dream is to build software that influences people's life.",
     "contactMessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
- 
+
     "address": {
-      "city": "Noida",
+      "city": "Bahraich",
       "state": "Uttar Pradesh"
     },
 
-    "resumeDownload": "https://drive.google.com/file/d/1R0j4W-88Wx82kSxav0UcUIxs4ILykrLL/view?usp=sharing",
+    "resumeDownload": "https://drive.google.com/file/d/1IQF2GInUfe6SaOhM-Ejy5OBDEKt4g6bk/view?usp=sharing",
     "social": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/kumaratul60",
+        "url": "https://twitter.com/atulkawasthi",
         "className": "fa fa-twitter"
       },
       {
@@ -52,10 +52,16 @@
     ],
     "work": [
       {
+        "company": "Tickled Media",
+        "title": "Software Engineer ",
+        "years": "April 2022 - Present",
+        "description": " Working on a parenting website. Which helps to make Mama's lifestyle easier and help to dignose there babies health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
+      },
+      {
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
         "years": "July 2021 - Nov 2021",
-        "description": "Building on the live website, in which adding some features in the live chatBox module, customized responsive UI.Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
+        "description": "Building on the client live website, in which adding some features in the live chatBox module, customized responsive UI. Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
       {
@@ -63,26 +69,16 @@
         "title": "Software Engineer Intern",
         "years": "Feb 2021 - April 2021",
         "description": "Built the interactive Dashboard and added some high impact features that improve the efficiency of the application by more than 70%. Responsible for enhancing and maintaining the UI and applications."
-      },
-      {
-        "company": "Liberin Technologies",
-        "title": "Software Development Intern",
-        "years": "Jan 2020 - May 2020",
-        "description": "Work with the software development team and developed a Corona-Virus dashboard using Spring boot, REST-API, JSP. Designed project using Spring boot framework and deployed on Apache Tomcat."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "80%"
+        "name": "Node JS ENV, ReactJs, NextJS",
+        "level": "75%"
       },
 
       {
-        "name": "JavaScript",
-        "level": "70%"
-      },
-      {
-        "name": "Web Development",
+        "name": "JavaScript,",
         "level": "70%"
       },
       {
@@ -90,8 +86,20 @@
         "level": "70%"
       },
       {
+        "name": "React library- Redux",
+        "level": "70%"
+      },
+      {
+        "name": "UI-library - Material-UI, Tailwind CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Others - Redis, Firebase, Vitest, Jest, CS fundamentals ",
+        "level": "85%"
+      },
+      {
         "name": "Git",
-        "level": "65%"
+        "level": "80%"
       }
     ]
   },
