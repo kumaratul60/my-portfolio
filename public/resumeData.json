@@ -55,7 +55,7 @@
         "company": "Tickled Media",
         "title": "Software Engineer ",
         "years": "April 2022 - Present",
-        "description": " Working on a parenting website. Which helps to make Mama's lifestyle easier and help to dignose there babies health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
+        "description": " Working on a parenting website. We provide content direct to consumers (D2C) and which helps to make Mama's lifestyle easier and help to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
       },
       {
         "company": "Apponward Technologies",
@@ -90,7 +90,7 @@
         "level": "70%"
       },
       {
-        "name": "UI-library - Material-UI, Tailwind CSS",
+        "name": "UI-libraries: Material-UI, Tailwind CSS, Styled components",
         "level": "85%"
       },
       {
@@ -138,7 +138,7 @@
         "url": "https://to-do-app-two-dusky.vercel.app"
       },
       {
-        "title": " Slackon (React JS, Next Js, Styled Components, Firebase-db)",
+        "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
         "category": "Room-Chat messenger",
         "image": "slack1.png",
         "url": "https://slack-v2-8921.web.app"
