@@ -55,20 +55,20 @@
         "company": "Tickled Media",
         "title": "Software Engineer ",
         "years": "April 2022 - Present",
-        "description": " Working on a parenting website. We provide content direct to consumers (D2C) and which helps to make Mama's lifestyle easier and help to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
+        "description": "Working on a parenting website. We provide content directly to consumers (D2C) and which helps to make Mama's lifestyle easier and helps to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
       },
       {
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
         "years": "July 2021 - Nov 2021",
-        "description": "Building on the client live website, in which adding some features in the live chatBox module, customized responsive UI. Add a feature that improves the SEO performance and user view.Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
+        "description": "Building on the client's live website, in which adding some features in the live chatBox module, customized responsive UI. Add a feature that improves the SEO performance and user view. Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
       {
         "company": "CodeStore Technologies",
         "title": "Software Engineer Intern",
         "years": "Feb 2021 - April 2021",
-        "description": "Built the interactive Dashboard and added some high impact features that improve the efficiency of the application by more than 70%. Responsible for enhancing and maintaining the UI and applications."
+        "description": "Built the interactive Dashboard and added some high-impact features that improve the efficiency of the application by more than 70%. Responsible for enhancing and maintaining the UI and applications."
       }
     ],
     "skills": [
@@ -94,11 +94,11 @@
         "level": "85%"
       },
       {
-        "name": "Others - Redis, Firebase, Vitest, Jest, CS fundamentals ",
+        "name": "Others: Redis, Firebase, Vitest, Jest, CS fundamentals ",
         "level": "85%"
       },
       {
-        "name": "Git",
+        "name": "Git, linux",
         "level": "80%"
       }
     ]
