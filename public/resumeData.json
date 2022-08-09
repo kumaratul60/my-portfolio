@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": " Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore web and work on as Full-stack dev. I have made some interesting projects using ReactJs & NextJs. My dream is to build software that influences people's life.",
+    "bio": " Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore web and work on as Full-stack dev. I am quick learner and hope to achieve my goals through sheer hard work. I'm curious by nature and have a thirst for knowledge and like to learn more and more at any point in time. I also keep upgrading my skill-set, which I leverage to take myself to newer heights.",
     "contactMessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
@@ -14,7 +14,7 @@
       "state": "Uttar Pradesh"
     },
 
-    "resumeDownload": "https://drive.google.com/file/d/1IQF2GInUfe6SaOhM-Ejy5OBDEKt4g6bk/view?usp=sharing",
+    "resumeDownload": "https://drive.google.com/file/d/1eiDUJYC34oUrDkhN3ONHxwM00qRZ7SUf/view",
     "social": [
       {
         "name": "twitter",
@@ -55,7 +55,7 @@
         "company": "Tickled Media",
         "title": "Software Engineer ",
         "years": "April 2022 - Present",
-        "description": "Working on a parenting website. We provide content directly to consumers (D2C) and which helps to make Mama's lifestyle easier and helps to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%."
+        "description": "Working on a parenting website. We provide content directly to consumers (D2C) and which helps to make Mama's lifestyle easier and helps to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%. Here responsible for building the web view infrastructure for millions of users to get a seem-less experience with the minimum response time at the leading content-providing parenting company."
       },
       {
         "company": "Apponward Technologies",
