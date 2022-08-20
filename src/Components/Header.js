@@ -13,7 +13,7 @@ const Header = ({ data }) => {
       return (
         
         <li key={network.name}>
-          <a href={network.url} target="_blank" rel="noreferrer">
+          <a href={network.url} target="_blank" rel="noopener noreferrer">
             <i className={network.className}></i>
           </a>
         </li>
@@ -25,7 +25,7 @@ const Header = ({ data }) => {
     
     <header id="home">
       <ParticlesBg type="circle" bg={true} />
-     
+
 
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">

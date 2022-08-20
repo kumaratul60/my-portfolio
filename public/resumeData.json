@@ -14,7 +14,7 @@
       "state": "Uttar Pradesh"
     },
 
-    "resumeDownload": "https://drive.google.com/file/d/1eiDUJYC34oUrDkhN3ONHxwM00qRZ7SUf/view",
+    "resumeDownload": "https://drive.google.com/file/d/13T7cVV4xPkLbQq-LE1G8JZoEmJJMnyDN/view",
     "social": [
       {
         "name": "twitter",
@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillMessage": "My Programming Language Proficiency",
+    "skillMessage": "My tech-stacks are",
     "education": [
       {
         "school": "Punjab Technical University - India",
@@ -86,20 +86,20 @@
         "level": "70%"
       },
       {
-        "name": "React library- Redux",
+        "name": "Redux tool-kit",
         "level": "70%"
       },
       {
-        "name": "UI-libraries: Material-UI, Tailwind CSS, Styled components",
+        "name": "Material-UI, Tailwind CSS",
         "level": "85%"
       },
       {
-        "name": "Others: Redis, Firebase, Vitest, Jest, CS fundamentals ",
+        "name": "Redis, Firebase, Vitest, Jest ",
         "level": "85%"
       },
       {
-        "name": "Git, linux",
-        "level": "80%"
+        "name": "Git, linux, JIRA, Jenkins",
+        "level": "85%"
       }
     ]
   },
@@ -109,45 +109,52 @@
         "title": "Airbnb-clone (React JS, Next Js, Server Side Rendering,  Tailwind css)",
         "category": "",
         "image": "airbnb.png",
-        "url": "https://airbnb-v2-navy.vercel.app"
+        "url": "https://github.com/kumaratul60/airbnb-v2"
       },
 
       {
         "title": "E-commerce site (React JS, Next Js, Redux, NextAuth, Tailwind css)",
         "category": "E-commerce",
         "image": "amzn.png",
-        "url": "https://ecommerce-webapp-483i0p9fb-kumaratul60.vercel.app"
+        "url": "https://github.com/kumaratul60/mezon-ecommerce"
       },
       {
-        "title": "Messenger (React JS, Next Js, SSR, Firebase)",
-        "category": "Messenger",
-        "image": "whatsapp.png",
-        "url": "https://whatsapp-2-fawn.vercel.app"
+        "title": "A business page (React JS, Vite, Tailwind CSS)",
+        "category": "UI",
+        "image": "b-landing.png",
+        "url": "https://github.com/kumaratul60/business-landing-page"
       },
 
       {
         "title": "LinkedIn Clone (React JS, Redux, Firebase-auth,db)",
         "category": "Social-media",
         "image": "linkedin.png",
-        "url": "https://linkedin-clone-e052021.web.app"
-      },
-      {
-        "title": "Todo (React JS, Firebase)",
-        "category": "Productive",
-        "image": "todo.png",
-        "url": "https://to-do-app-two-dusky.vercel.app"
-      },
-      {
-        "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
-        "category": "Room-Chat messenger",
-        "image": "slack1.png",
-        "url": "https://slack-v2-8921.web.app"
+        "url": "https://github.com/kumaratul60/LinkedIn-clone"
       },
       {
         "title": "Covid-19 Tracker (React JS)",
         "category": "Live API based SPA",
         "image": "covid-19 tracker.png",
-        "url": "https://covid-19-tracker-5ak21.web.app"
+        "url": "https://github.com/kumaratul60/covid-19-tracker"
+      },
+      {
+        "title": "Mail-me (React JS, Redux Firebase)",
+        "category": "e-mail",
+        "image": "mail.png",
+        "url": "https://github.com/kumaratul60/mail-me-clone"
+      },
+      {
+        "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
+        "category": "Room-Chat messenger",
+        "image": "slack1.png",
+        "url": "https://github.com/kumaratul60/slockon-webapp"
+      },
+
+      {
+        "title": "Messenger (React JS, Next Js, SSR, Firebase)",
+        "category": "Messenger",
+        "image": "whatsapp.png",
+        "url": "https://github.com/kumaratul60/whatsapp-2"
       }
     ]
   },
