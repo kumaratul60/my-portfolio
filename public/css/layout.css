@@ -324,7 +324,7 @@ ul#nav li.current a {
 /*----------------------------------------------*/
 
 .bars {
-  width: 50%;
+  width: 48%;
   /* float: left; */
   padding: 0px;
   text-align: center;
@@ -335,10 +335,10 @@ ul#nav li.current a {
 }
 .bars li {
   position: relative;
-  margin-bottom: 60px;
+  margin-bottom: 35px;
   background: #ccc;
   height: 30px;
-  border-radius: 3px;
+  border-radius: 8px;
 }
 .bars li em {
   font: 15px "opensans-bold", sans-serif;
@@ -348,7 +348,7 @@ ul#nav li.current a {
   font-weight: normal;
   position: relative;
   /* margin-top: 10px; */
-  top: 2px;
+  top: 3px;
 }
 .bar-expand {
   position: absolute;
