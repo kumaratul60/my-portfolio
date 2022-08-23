@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": " Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore web and work on as Full-stack dev. I am quick learner and hope to achieve my goals through sheer hard work. I'm curious by nature and have a thirst for knowledge and like to learn more and more at any point in time. I also keep upgrading my skill-set, which I leverage to take myself to newer heights.",
+    "bio": "Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore the web and work as Full-stack dev. I am a quick learner and hope to achieve my goals through sheer hard work. I'm curious by nature and have a thirst for knowledge and like to learn more and more at any point in time. I also keep upgrading my skill-set, which I leverage to take myself to newer heights.",
     "contactMessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
     "phone": "+91 9454170063",
@@ -55,12 +55,12 @@
         "company": "Tickled Media",
         "title": "Software Engineer ",
         "years": "April 2022 - Present",
-        "description": "Working on a parenting website. We provide content directly to consumers (D2C) and which helps to make Mama's lifestyle easier and helps to diagnose their baby's health. Used Razzel to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 45%. Here responsible for building the web view infrastructure for millions of users to get a seem-less experience with the minimum response time at the leading content-providing parenting company."
+        "description": "Building a parenting website that provides content directly to consumers (D2C) and that helps to make Mama's lifestyle easier and helps to diagnose their baby's health in the initial phase. Used Razzlejs to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 25%. Here responsible for building the web view infrastructure for millions of users to get a seem-less experience with the minimum response time at the leading content-providing parenting company."
       },
       {
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
-        "years": "July 2021 - Nov 2021",
+        "years": "May 2021 - December 2021",
         "description": "Building on the client's live website, in which adding some features in the live chatBox module, customized responsive UI. Add a feature that improves the SEO performance and user view. Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
