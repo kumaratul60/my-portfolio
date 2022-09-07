@@ -144,12 +144,17 @@
         "url": "https://github.com/kumaratul60/mail-me-clone"
       },
       {
+        "title": "my-web (HTML,CSS)",
+        "category": "portfolio",
+        "image": "new-pp.png",
+        "url": "atul-myportfolio.netlify.app"
+      },
+      {
         "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
         "category": "Room-Chat messenger",
         "image": "slack1.png",
         "url": "https://github.com/kumaratul60/slockon-webapp"
       },
-
       {
         "title": "Messenger (React JS, Next Js, SSR, Firebase)",
         "category": "Messenger",
