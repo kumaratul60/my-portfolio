@@ -5,9 +5,9 @@ const Footer = ({ data }) => {
   if (data) {
     var networks = data.social.map(function (network) {
       return (
-        <li key={network.name}>
-          <a href={network.url}>
-            <i className={network.className}></i>
+        <li key={ network.name }>
+          <a href={ network.url }>
+            <i className={ network.className }></i>
           </a>
         </li>
       );
@@ -19,16 +19,18 @@ const Footer = ({ data }) => {
       <div className="row">
         <Fade bottom>
           <div className="twelve columns">
-            <ul className="social-links">{networks}</ul>
+            <ul className="social-links">{ networks }</ul>
 
             <ul className="copyright">
               <li>
-                Made by{" "}
+                <span style={ { color: "#fff" } }>2022 || Made by &copy;{ " " }</span>
                 <a
                   title="Atul"
-                  href="https://www.linkedin.com/in/atul-kumar-awasthi-225511143"
+                  href="https://linktr.ee/imatul"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  Atul
+                  <span style={ { color: "#3d3d" } }>Atul</span>
                 </a>
               </li>
             </ul>

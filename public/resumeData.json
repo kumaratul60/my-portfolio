@@ -147,7 +147,7 @@
         "title": "my-web (HTML,CSS)",
         "category": "portfolio",
         "image": "new-pp.png",
-        "url": "atul-myportfolio.netlify.app"
+        "url": "https://atul-myportfolio.netlify.app"
       },
       {
         "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
