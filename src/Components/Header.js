@@ -8,10 +8,9 @@ const Header = ({ data }) => {
     var name = data.name;
     var occupation = data.occupation;
     var description = data.description;
-    var city = data.address.city;
+    // var city = data.address.city;
     var networks = data.social.map(function (network) {
       return (
-        
         <li key={network.name}>
           <a href={network.url} target="_blank" rel="noopener noreferrer">
             <i className={network.className}></i>
@@ -22,10 +21,8 @@ const Header = ({ data }) => {
   }
 
   return (
-    
     <header id="home">
       <ParticlesBg type="circle" bg={true} />
-
 
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
@@ -70,14 +67,15 @@ const Header = ({ data }) => {
           <div className="banner-text">
             <Fade bottom duration={1200}>
               <h1 className="responsive-headline">
-                <TypeWriter typing={0.5}>
+                <TypeWriter typing={1}>
                   {name ? `I'm ${name}.` : null}
                 </TypeWriter>
               </h1>
             </Fade>
             <Fade bottom duration={1200}>
               <h3>
-                Based in {city}. <span>{occupation}</span> {description}.
+                {/* Based in {city}.  */}
+                Based in India. <span>{occupation}</span> {description}.
               </h3>
             </Fade>
             <hr />

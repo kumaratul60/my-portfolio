@@ -106,8 +106,14 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Podify music app (React JS, Redux Vite, Tailwind CSS)",
+        "category": "web application",
+        "image": "podify.png",
+        "url": "https://github.com/kumaratul60/podify"
+      },
+      {
         "title": "Airbnb-clone (React JS, Next Js, Server Side Rendering,  Tailwind css)",
-        "category": "",
+        "category": "web application",
         "image": "airbnb.png",
         "url": "https://github.com/kumaratul60/airbnb-v2"
       },
@@ -117,12 +123,6 @@
         "category": "E-commerce",
         "image": "amzn.png",
         "url": "https://github.com/kumaratul60/mezon-ecommerce"
-      },
-      {
-        "title": "A business page (React JS, Vite, Tailwind CSS)",
-        "category": "UI",
-        "image": "b-landing.png",
-        "url": "https://github.com/kumaratul60/business-landing-page"
       },
 
       {
