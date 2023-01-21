@@ -4,17 +4,16 @@
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
-    "bio": "Hi there! I'm Atul. I have 1 year of experience as a Front-end developer. Curious to explore the web and work as Full-stack dev. I am a quick learner and hope to achieve my goals through sheer hard work. I'm curious by nature and have a thirst for knowledge and like to learn more and more at any point in time. I also keep upgrading my skill-set, which I leverage to take myself to newer heights.",
+    "bio": "Hi there! I'm Atul.  I've 2 Year of Experience in total including 1 year as A frontend developer. Curious to explore the web and work as Full-stack dev. I am a quick learner and hope to achieve my goals through sheer hard work. I'm curious by nature and have a thirst for knowledge and like to learn more and more at any point in time. I also keep upgrading my skill-set, which I leverage to take myself to newer heights.",
     "contactMessage": "Get in touch with me!",
     "email": "atulreso1@gmail.com",
-    "phone": "+91 9454170063",
 
     "address": {
       "city": "Bahraich",
       "state": "Uttar Pradesh"
     },
 
-    "resumeDownload": "https://drive.google.com/file/d/13T7cVV4xPkLbQq-LE1G8JZoEmJJMnyDN/view",
+    "resumeDownload": "https://drive.google.com/file/d/1UHVbQkF-4AzzvVTVijllK60mZ6qI1js8/view?usp=share_link",
     "social": [
       {
         "name": "twitter",
@@ -60,7 +59,7 @@
       {
         "company": "Apponward Technologies",
         "title": "Software Engineer ",
-        "years": "May 2021 - December 2021",
+        "years": "May 2021 - Feb 2022",
         "description": "Building on the client's live website, in which adding some features in the live chatBox module, customized responsive UI. Add a feature that improves the SEO performance and user view. Handling server-side rendering (SSR) using express.js. Handle AWS server for deploying code on production and development server."
       },
 
