@@ -27,7 +27,7 @@ const App = () => {
       fetch("/resumeData.json")
         .then((res) => res.json())
         .then((data) => {
-          setResumeData(data);
+          setResumeData(data); 
         })
     } catch (err) {
       console.error(err);
