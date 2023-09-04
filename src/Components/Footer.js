@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
 
             <ul className="copyright">
               <li>
-                <span style={ { color: "#fff" } }>2022 || Made by &copy;{ " " }</span>
+                <span style={ { color: "#fff" } }>2023 || Made by &copy;{ " " }</span>
                 <a
                   title="Atul"
                   href="https://linktr.ee/imatul"
