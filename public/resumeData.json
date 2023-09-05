@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Atul Kumar Awasthi ",
+    "name": "Atul Kumar Awasthi",
     "occupation": "Software Engineer",
 
     "image": "rp.jpg",
@@ -53,7 +53,7 @@
       {
         "company": "Tickled Media",
         "title": "Software Engineer ",
-        "years": "April 2022 - August 2022",
+        "years": "April 2022 - October 2022",
         "description": "Building a parenting website that provides content directly to consumers (D2C) that helps to make Mama's lifestyle more accessible and helps to diagnose their baby's health in the initial phase. Used Razzlejs to build the web and Vitest for unit testing to improve the SEO performance and web efficiency by 25%. Here responsible for creating the web view infrastructure for millions of users to get a seamless experience with the minimum response time at the leading content-providing parenting company."
       },
       {
